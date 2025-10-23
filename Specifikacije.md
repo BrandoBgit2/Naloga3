@@ -6,6 +6,8 @@
 
 [FERI](https://feri.um.si/)
 
+conflict testing
+
 ## Funkcionalnosti
 Ordered list
 1. Enostavna *Enostavna uporaba za uporabnike*
